@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alinecorreia22
 - 👀 I’m interested in ... People Analytics e Developer Fullstack
-- 🌱 I’m currently learning ... Linguagens de Pogramação
+- 🌱 I’m currently learning ... Desenvolvimento 
 - 💞️ I’m looking to collaborate on ... Bootcamps e projetos  pessoais
 - 📫 How to reach me ...alinec.silva11@yahoo.com.br
 
